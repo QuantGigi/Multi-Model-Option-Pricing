@@ -24,5 +24,3 @@ This repository contains a modular and extensible **option pricing engine** buil
 ## Work in Progress
 
 This is not necessarily the final version. The architecture is designed to allow **easy integration of new models, methods, or option types** (e.g. barrier, Asian, American with LSMC, etc.).
-
-Feel free to contribute or suggest improvements !
